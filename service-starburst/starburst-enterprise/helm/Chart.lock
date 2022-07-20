@@ -1,0 +1,6 @@
+dependencies:
+- name: starburst-charts-common
+  repository: file://../../starburst-charts-common/helm
+  version: 380.0.0
+digest: sha256:8a0d572a3333a7ed9f1b4cf15db2824845da08053d97b621076b7f35f059c9e8
+generated: "2022-05-17T09:43:11.483861081Z"
